@@ -31,7 +31,7 @@
 #include "lang.h"                   // Localisation (English)
 //#include "lang_cz.h"                // Localisation (Czech)
 //#include "lang_fr.h"                // Localisation (French)
-//#include "lang_gr.h"                  // Localisation (German)
+#include "lang_gr.h"                  // Localisation (German)
 //#include "lang_it.h"                // Localisation (Italian)
 //#include "lang_nl.h"                // Localisation (Dutch)
 //#include "lang_pl.h"                // Localisation (Polish)
